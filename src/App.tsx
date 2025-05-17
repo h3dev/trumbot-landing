@@ -15,7 +15,7 @@ function App() {
           <div className="container mx-auto flex justify-between items-center">
             <div className="flex items-center space-x-2">
               <img src="/logo.png" alt="TB Logo" className="w-12 h-12 object-contain" />
-              <span className="text-2xl font-bold">Nebula Tech</span>
+              <span className="text-2xl font-bold">TrumBot</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#services" className="hover:text-blue-400 transition">Services</a>
