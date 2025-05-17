@@ -202,14 +202,14 @@ function App() {
                   <p className="text-gray-400">lh.hoangtam@gmail.com</p>
                 </div>
               </a>
-              <a href="https://t.me/hoangtam_hash" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 bg-blue-900/20 p-6 rounded-xl hover:bg-blue-900/30 transition-colors">
+              <a href="https://t.me/trumbottg" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 bg-blue-900/20 p-6 rounded-xl hover:bg-blue-900/30 transition-colors">
                 <BrandTelegram className="w-8 h-8 text-blue-400" />
                 <div>
                   <h3 className="font-bold mb-1">Telegram</h3>
                   <p className="text-gray-400">Join our channel</p>
                 </div>
               </a>
-              <a href="https://facebook.com/your_page" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 bg-blue-900/20 p-6 rounded-xl hover:bg-blue-900/30 transition-colors md:col-span-2">
+              <a href="https://facebook.com/hoangtam.ch" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 bg-blue-900/20 p-6 rounded-xl hover:bg-blue-900/30 transition-colors md:col-span-2">
                 <Facebook className="w-8 h-8 text-blue-400" />
                 <div>
                   <h3 className="font-bold mb-1">Facebook</h3>
